@@ -1,0 +1,15 @@
+G:\Projects\CinemaAutomation\Project.MAP\bin\Debug\Project.MAP.dll.config
+G:\Projects\CinemaAutomation\Project.MAP\bin\Debug\Project.MAP.dll
+G:\Projects\CinemaAutomation\Project.MAP\bin\Debug\Project.MAP.pdb
+G:\Projects\CinemaAutomation\Project.MAP\bin\Debug\EntityFramework.dll
+G:\Projects\CinemaAutomation\Project.MAP\bin\Debug\EntityFramework.SqlServer.dll
+G:\Projects\CinemaAutomation\Project.MAP\bin\Debug\Project.ENTITIES.dll
+G:\Projects\CinemaAutomation\Project.MAP\bin\Debug\Project.ENTITIES.pdb
+G:\Projects\CinemaAutomation\Project.MAP\bin\Debug\Project.ENTITIES.dll.config
+G:\Projects\CinemaAutomation\Project.MAP\bin\Debug\EntityFramework.xml
+G:\Projects\CinemaAutomation\Project.MAP\bin\Debug\EntityFramework.SqlServer.xml
+G:\Projects\CinemaAutomation\Project.MAP\obj\Debug\Project.MAP.csproj.AssemblyReference.cache
+G:\Projects\CinemaAutomation\Project.MAP\obj\Debug\Project.MAP.csproj.CoreCompileInputs.cache
+G:\Projects\CinemaAutomation\Project.MAP\obj\Debug\Project.MAP.csproj.CopyComplete
+G:\Projects\CinemaAutomation\Project.MAP\obj\Debug\Project.MAP.dll
+G:\Projects\CinemaAutomation\Project.MAP\obj\Debug\Project.MAP.pdb

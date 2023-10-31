@@ -1,0 +1,12 @@
+G:\Projects\CinemaAutomation\Project.ENTITIES\bin\Debug\Project.ENTITIES.dll.config
+G:\Projects\CinemaAutomation\Project.ENTITIES\bin\Debug\Project.ENTITIES.dll
+G:\Projects\CinemaAutomation\Project.ENTITIES\bin\Debug\Project.ENTITIES.pdb
+G:\Projects\CinemaAutomation\Project.ENTITIES\bin\Debug\EntityFramework.dll
+G:\Projects\CinemaAutomation\Project.ENTITIES\bin\Debug\EntityFramework.SqlServer.dll
+G:\Projects\CinemaAutomation\Project.ENTITIES\bin\Debug\EntityFramework.xml
+G:\Projects\CinemaAutomation\Project.ENTITIES\bin\Debug\EntityFramework.SqlServer.xml
+G:\Projects\CinemaAutomation\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.AssemblyReference.cache
+G:\Projects\CinemaAutomation\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.CoreCompileInputs.cache
+G:\Projects\CinemaAutomation\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.CopyComplete
+G:\Projects\CinemaAutomation\Project.ENTITIES\obj\Debug\Project.ENTITIES.dll
+G:\Projects\CinemaAutomation\Project.ENTITIES\obj\Debug\Project.ENTITIES.pdb

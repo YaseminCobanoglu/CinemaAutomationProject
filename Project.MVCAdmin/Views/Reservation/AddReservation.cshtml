@@ -1,0 +1,36 @@
+﻿@model AddUpdateReservationPageVM
+
+<h2>Rezervasyon Ekle</h2>
+
+@using (Html.BeginForm("AddReservation", "Reservation", FormMethod.Post))
+    {
+        <div>
+            <label>Kullanıcı Adı:</label>
+            @Html.TextBoxFor(m => m.AppUser.UserName)
+        </div>
+
+        <div>
+            <label>Film:</label>
+            @Html.DropDownListFor(m => m.Reservation.FilmID, new SelectList(Model.Films, "ID", "MovieName"), "Film Seçin")
+        </div>
+
+        <div>
+            <label>Seans:</label>
+            @Html.DropDownListFor(m => m.Reservation.SeansID, new SelectList(Model.Seans, "ID", "SeansNumber"), "Seans Seçin")
+        </div>
+
+        <div>
+            <label>Toplam Fiyat:</label>
+            @Html.TextBoxFor(m => m.Reservation.TotalPrice)
+        </div>
+
+        <div>
+            <label>Onay Kodu:</label>
+            @Html.TextBoxFor(m => m.Reservation.ConfirmationCode)
+        </div>
+
+        <button type="submit" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; cursor: pointer; border-radius: 4px;">
+            Rezervasyonu Ekle
+        </button>
+    }
+

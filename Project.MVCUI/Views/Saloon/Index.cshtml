@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Salonlar</h2>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sinema Görselleri</title>
+    <style>
+        .cinema-container {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .cinema {
+            text-align: center;
+        }
+
+            .cinema img {
+                width: 600px; /* Genişlik ayarını 600 piksel olarak ayarladık */
+                height: auto;
+            }
+
+            .cinema p {
+                font-weight: bold; /* İsimleri daha kalın yapar */
+                font-style: italic; /* İsimleri italik yapar */
+                font-size: 18px; /* İsimlerin yazı boyutunu ayarlar */
+            }
+    </style>
+</head>
+<h4>
+    •Sizleri lüks ve ihtişamın buluştuğu sinema salonumuza davet ediyoruz.
+    • En yeni ve çeşitli film seçenekleriyle keyifli saatler yaşayabilirsiniz.
+    • Dünyanın en yeni ve en özel filmlerini, muhteşem genişliğimizdeki perdede izleme ayrıcalığını yaşayın.
+    • Dolby Atmos ve 4K Ultra HD teknolojisiyle olağanüstü bir ses ve görüntü deneyimi sunuyoruz.
+    • Sadece en rahat ve lüks deri koltuklarımızda, kusursuz konforun tadını çıkarabilirsiniz.
+    • Özel VIP salonlarımızda, kişisel hizmet ve Arkadaşlarınızla veya ailenizle keyifli bir sinema gecesi için bizi tercih edin..
+</h4>
+<body>
+    <div class="cinema-container">
+        <div class="cinema">
+            <img src="https://bedavainternet.com.tr/wp-content/uploads/2022/10/Adsiz-27.webp" alt="Kanyon Görseli">
+            <p>EchoStar Cinemas</p>
+        </div>
+        <div class="cinema">
+            <img src="https://www.viaportmarina.com/assets/img/marina/sinema/genel-bilgi/sinema1.jpeg" alt="Kanyon Görseli">
+            <p>GoldenView Cinemas</p>
+        </div>
+    </div>
+</body>
+</html>
+
